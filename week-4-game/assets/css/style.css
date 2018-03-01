@@ -1,0 +1,85 @@
+body {
+    background-image: url("intersection.png");
+
+}
+
+header {
+    background-color:beige;    
+    border: 3px solid burlywood;
+    margin-right: 840px;
+    margin-top: 10px;
+
+}
+
+h1 {
+    font-family: papyrus;
+    margin-top: 15px;
+
+}
+
+.instructions {
+
+    background-color: rosybrown;
+    border: 3px solid burlywood;
+    margin-top: 20px;
+    margin-right: 420px;
+    font-family: papyrus;
+    color:black;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+h2 {
+
+    background-color: beige;
+    border: 1px solid black;
+    font-family: papyrus;
+    color: black;
+    margin-right: 420px;
+
+}
+
+#buttonContainer  {
+   width: 875px;
+    height: 200px;
+    margin-top: 30px;
+    margin-right: 350px;
+    background-image: url("gold-dust-texture_1085-624.jpg");
+}
+
+#blueGem  {
+    height: 150px;
+    width: 200px;
+    margin-top: 25px;
+
+}
+
+#redGem   {
+
+    height: 150px;
+    width: 200px;
+    margin-top: 25px;
+}
+
+#blackGem  {
+    height: 150px;
+    width: 200px;
+    margin-top: 25px; 
+}
+
+#greenGem {
+    height: 150px;
+    width: 200px;
+    margin-top: 25px;
+}
+
+/* #crystalSkull  {
+
+width: 271px;
+height: 176px;
+float: right;
+margin: right 40px;
+
+} */
+
